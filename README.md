@@ -1,13 +1,14 @@
-# Digital-Foreniscs-Roadmap-CTF
-
+### Digital-Foreniscs-Roadmap-CTF
 
 #### A guide covering Digital Forensics for Capture the flag Competions the that will make you a better and more efficient with Digital Forensics development and enhance your fundamentials to solve challenges
 
 
 # Table of Contents
 
-1. [Getting Started with Digital Forensics ](https://wiki.bi0s.in/forensics/intro/)
+1. [Getting Started with Digital Forensics ]
 
+    * [wiki bi0s](https://wiki.bi0s.in/forensics/roadmap/)
+    * [Getting started with CTF Point of View](https://ctf101.org/forensics/overview/)
     * [Books & Tutorials](#Books--Tutorials)
     * [Digital Forensics Certifications & Courses](#Digital-Forensics-Certifications--Courses)
     * [Playbooks](#playbooks)
@@ -22,6 +23,8 @@
 5. [Security Tools and Frameworks](https://github.com/mikeroyal/Digital-Forensics-Guide#security-tools-and-frameworks)
 
 6. [Networking](https://github.com/mikeroyal/Digital-Forensics-Guide#networking)
+
+7. [Memory Forensics](https://github.com/stuxnet999/MemLabs)
 
 
 # Getting Started with Digital Forensics
@@ -82,6 +85,10 @@
  - [Common Weakness Enumeration (CWE) Top 25](https://cwe.mitre.org/top25/archive/2022/2022_cwe_top25.html)
 
  - [Securing The Software Supply Chain: Recommended Practices Guide for Developers | CISA, NSA, and ODNI (PDF)](https://media.defense.gov/2022/Sep/01/2003068942/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_DEVELOPERS.PDF)
+
+### Getting started with CTF Point of View
+
+- The Forensics Wiki is an open source website providing information related to digital forensics. The articles on the website cover a wide range of information from tools used during investigations to papers people and organizations that contribute to the field. [All Credits to The Foreniscs Wiki Team](https://forensics.wiki/)
 
 ### Digital Forensics Certifications & Courses
 
