@@ -7,7 +7,7 @@
 
 1. Getting Started with Digital Forensics
 
-    * [wiki bi0s](https://wiki.bi0s.in/forensics/roadmap/)
+    * [bi0s wiki](https://wiki.bi0s.in/forensics/roadmap/)
     * [Getting started with CTF Point of View](https://ctf101.org/forensics/overview/)
     * [Digital Forensics Certifications & Courses](#Digital-Forensics-Certifications--Courses)
     * [Playbooks](#playbooks)
