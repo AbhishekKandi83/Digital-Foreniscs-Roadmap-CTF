@@ -39,6 +39,9 @@
 
 [Memory forensics](https://github.com/stuxnet999/MemLabs#About-MemLabs-mag) is forensic analysis of a computer's memory dump. Its primary application is investigation of advanced computer attacks which are stealthy enough to avoid leaving data on the computer's hard drive. Consequently, the memory (e.g. RAM) must be analyzed for forensic information.
 
+### Getting started with CTF Point of View
+
+- The Forensics Wiki is an open source website providing information related to digital forensics. The articles on the website cover a wide range of information from tools used during investigations to papers people and organizations that contribute to the field. [All Credits to The Foreniscs Wiki Team](https://forensics.wiki/)
 
 ### Books & Tutorials
 
@@ -85,10 +88,6 @@
  - [Common Weakness Enumeration (CWE) Top 25](https://cwe.mitre.org/top25/archive/2022/2022_cwe_top25.html)
 
  - [Securing The Software Supply Chain: Recommended Practices Guide for Developers | CISA, NSA, and ODNI (PDF)](https://media.defense.gov/2022/Sep/01/2003068942/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_DEVELOPERS.PDF)
-
-### Getting started with CTF Point of View
-
-- The Forensics Wiki is an open source website providing information related to digital forensics. The articles on the website cover a wide range of information from tools used during investigations to papers people and organizations that contribute to the field. [All Credits to The Foreniscs Wiki Team](https://forensics.wiki/)
 
 ### Digital Forensics Certifications & Courses
 
