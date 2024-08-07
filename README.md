@@ -27,9 +27,6 @@
 7. [Memory Forensics](https://github.com/stuxnet999/MemLabs)
 
 
-# Getting Started with Digital Forensics
-[Back to the Top](https://github.com/mikeroyal/Digital-Forensics-Guide#table-of-contents)
-
 [Digital Forensics](https://www.dhs.gov/publication/digital-forensics-tools) is the process of recovering and preserving material found on digital devices during the course of criminal investigations. Digital forensics tools include hardware and software tools used by law enforcement to collect and preserve digital evidence and support or refute hypotheses before courts.
 
 [Computer Forensics](https://en.wikipedia.org/wiki/Computer_forensics) is the process of examining digital media in a forensic-like manner with the goal of identifying, preserving, recovering, analyzing and presenting facts and opinions about the digital information.
@@ -39,6 +36,9 @@
 [Network forensics](https://resources.infosecinstitute.com/topic/network-forensics-overview/) is a science that centers on the discovery and retrieval of information surrounding a cybercrime within a networked environment. Common forensic activities include the capture, recording and analysis of events that occurred on a network in order to establish the source of cyberattacks.
 
 [Database forensics](https://resources.infosecinstitute.com/topic/computer-forensics-overview-types-database-forensics/) is the process of interrogating a failed database and trying to reconstruct the metadata and page information from within a data set, whereas database recovery implies some kind of restorative process that will enable the database to become viable enough to be put back into a production environment, or healthy enough to provide a backup that can be used in a database restore.
+
+[Memory forensics](https://github.com/stuxnet999/MemLabs#About-MemLabs-mag) is forensic analysis of a computer's memory dump. Its primary application is investigation of advanced computer attacks which are stealthy enough to avoid leaving data on the computer's hard drive. Consequently, the memory (e.g. RAM) must be analyzed for forensic information.
+
 
 ### Books & Tutorials
 
@@ -116,8 +116,6 @@
 
 ### Playbooks
 
-[Back to the Top](#table-of-contents)
-
 **Playbooks** can help automate and orchestrate your response, and can be set to run automatically when specific alerts or incidents are generated, by being attached to an analytics rule or an automation rule.
 
 * [Automate threat response with playbooks in Microsoft Azure with Sentinel](https://github.com/MicrosoftDocs/azure-docs/blob/main/articles/sentinel/tutorial-respond-threats-playbook.md) is a collection of procedures that can be run from Microsoft Sentinel in response to an alert or incident. 
@@ -131,8 +129,6 @@
 * [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - Playbook to aid the development of techniques and hypothesis for hunting campaigns.
 
 ### YouTube Tutorials
-
-[Back to the Top](#table-of-contents)
 
 [![Free Introduction to Digital Forensics Course Playlist | DFIRScience](https://ytcards.demolab.com/?id=giv0DQDSsjQ&list=PLJu2iQtpGvv-2LtysuTTka7dHt9GKUbxD&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Free Introduction to Digital Forensics Course Playlist | DFIRScience")](https://www.youtube.com/watch?v=giv0DQDSsjQ&list=PLJu2iQtpGvv-2LtysuTTka7dHt9GKUbxD)
 [![DFIR 101: Digital Forensics Essentials | Kathryn Hedley](https://ytcards.demolab.com/?id=eftOgRsHK4A&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "DFIR 101: Digital Forensics Essentials | Kathryn Hedley")](https://www.youtube.com/watch?v=eftOgRsHK4A)
@@ -152,7 +148,7 @@
 [![Best Certifications for Cyber Security 2023 | Top 6 Cybersecurity Certifications To Get in 2023](https://ytcards.demolab.com/?id=xOFxWE-IB3M&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Best Certifications for Cyber Security 2023 | Top 6 Cybersecurity Certifications To Get in 2023")](https://www.youtube.com/watch?v=xOFxWE-IB3M)
 
 # Digital Forensics Tools, Libraries, and Frameworks
-[Back to the Top](https://github.com/mikeroyal/Digital-Forensics-Guide#table-of-contents)
+
 
 [Autopsy®](https://sleuthkit.org/autopsy/) is a digital forensics platform and graphical interface to The Sleuth Kit® and other digital forensics tools. It is used by law enforcement, military, and corporate examiners to investigate what happened on a computer. You can even use it to recover photos from your camera's memory card.
 
@@ -244,7 +240,7 @@
 [Magnet ACQUIRE](https://www.magnetforensics.com/magnet-acquire/) is a Forensics tool that allows various types of disk acquisitions to be performed on Windows, Linux, and macOS as well as mobile operating systems (iOS & Android).
 
 # Virtualization
-[Back to the Top](https://github.com/mikeroyal/Digital-Forensics-Guide#table-of-contents)
+
 
 [HVM (Hardware Virtual Machine)](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/virtualization_types.html) is a virtualization type that provides the ability to run an operating system directly on top of a virtual machine without any modification, as if it were run on the bare-metal hardware.
 
@@ -293,7 +289,7 @@
 [VMware Workstation](https://www.vmware.com/products/workstation-pro.html) is a hosted hypervisor that runs on x64 versions of Windows and Linux operating systems; it enables users to set up virtual machines on a single physical machine, and use them simultaneously along with the actual machine.
 
 # File systems
-[Back to the Top](https://github.com/mikeroyal/Digital-Forensics-Guide#table-of-contents)
+
 
 [GlusterFS](https://www.gluster.org/) is a free and open source scalable network filesystem. Gluster is a scalable network filesystem. Using common off-the-shelf hardware, you can create large, distributed storage solutions for media streaming, data analysis, and other data- and bandwidth-intensive tasks.
 
@@ -324,11 +320,9 @@
 [exFAT(Extended File Allocation Table )](https://docs.microsoft.com/en-us/windows/win32/fileio/exfat-specification) is the file system that was the successor to FAT32 in the FAT family of file systems. It was optimized for flash memory such as USB flash drives and SD cards.
 
 # Security Tools and Frameworks
-[Back to the Top](https://github.com/mikeroyal/Digital-Forensics-Guide#table-of-contents)
+
 
 ### Security Benchmarks
-
-[Back to the Top](#table-of-contents)
 
  * [STIGs Benchmarks - Security Technical Implementation Guides](https://public.cyber.mil/stigs/)
 
@@ -343,8 +337,6 @@
  * [NIST - Current FIPS](https://www.nist.gov/itl/current-fips)
 
 ### Security Standards & Frameworks
-
-[Back to the Top](#table-of-contents)
 
 * [ISO Standards Catalogue](https://www.iso.org/standards.html)
 
@@ -375,15 +367,9 @@
 [Secure boot](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-secure-boot) is a security standard developed by members of the PC industry to help make sure that a device boots(Unified Extensible Firmware Interface (UEFI) BIOS) using only software(such as bootloaders, OS, UEFI drivers, and utilities) that is trusted by the Original Equipment Manufacturer (OEM).
 
 ### Security Encryption
- 
- [Back to the Top](#table-of-contents)
- 
+  
  **How Encryption Keys work**
  
- <p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/196625534-1cebcd35-7654-41cc-bbb2-33913a391a53.png">
-  <br />
-</p>
  
   * **Symmetric** is a data encryption method whereby the same private key is used to encode and decode information.
   
@@ -661,7 +647,7 @@
 
 ### Security Threat Models
 
-[Back to the Top](#table-of-contents)
+
 
 **[Diamond Model of Intrusion Analysis](https://apps.dtic.mil/sti/citations/ADA586960)** is a model to describe cyber attacks. It contains 4 parts - adversary, infrastructure, capability, and target.
 
@@ -697,7 +683,7 @@
 
 ## Threat Intelligence Platform
 
-[Back to the Top](#table-of-contents)
+
 
 A threat intelligence platform is a solution that collects and processes threat data from multiple sources. It provides security teams with detailed information about threats like known malware. The SOAR platform can use the information from the threat intelligence platform to guide the strategy and resolution needed against critical threats.
 
@@ -721,7 +707,7 @@ A threat intelligence platform is a solution that collects and processes threat 
 
 ### Security Orchestration Automation and Response (SOAR)
 
-[Back to the Top](#table-of-contents)
+
 
 SOAR solutions work by prioritizing and standardizing incident response activities so that security teams can collaborate on investigating and managing incidents. Workflows that can be handled through automation go through standardized response processes defined in playbooks.
 
@@ -772,7 +758,7 @@ SOAR solutions work by prioritizing and standardizing incident response activiti
 
 ### Security Information and Event Management (SIEM)
 
-[Back to the Top](#table-of-contents)
+
 
 Security information and event management (SIEM) software collects log data from an organization and then uses the log data to identify, categorize and analyze incidents and events.
 
@@ -825,7 +811,7 @@ Security information and event management (SIEM) software collects log data from
 
 ### User and Entity Behavior Analytics (UEBA)
 
-[Back to the Top](#table-of-contents)
+
 
 User and Entity Behavior Analytics (UEBA) is a category of security solutions that use innovative analytics technology, including machine learning and deep learning, to discover abnormal and risky behavior by users, machines and other entities on the corporate network with a Security Incident and Event Management (SIEM) solution.
 
@@ -857,7 +843,7 @@ There is a close relation between UEBA and SIEM technologies, because UEBA relie
  
  ### Detection & Response Types
 
-[Back to the Top](#table-of-contents)
+
 
  * [Endpoint Detection and Response (EDR)](https://www.crowdstrike.com/cybersecurity-101/endpoint-security/endpoint-detection-and-response-edr/) is a cybersecurity service that's referred to as endpoint detection and threat response (EDTR), is an endpoint security solution that continuously monitors end-user devices to detect and respond to cyber threats like ransomware and malware.
  
@@ -872,7 +858,7 @@ There is a close relation between UEBA and SIEM technologies, because UEBA relie
 </p>
 
 # Networking
-[Back to the Top](https://github.com/mikeroyal/Digital-Forensics-Guide#table-of-contents)
+
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/82833053-d1687b80-9e71-11ea-8c6d-074100f2f54b.png">
