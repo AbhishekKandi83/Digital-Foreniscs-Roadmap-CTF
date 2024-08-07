@@ -9,7 +9,6 @@
 
     * [wiki bi0s](https://wiki.bi0s.in/forensics/roadmap/)
     * [Getting started with CTF Point of View](https://ctf101.org/forensics/overview/)
-    * [Books & Tutorials](#Books--Tutorials)
     * [Digital Forensics Certifications & Courses](#Digital-Forensics-Certifications--Courses)
     * [Playbooks](#playbooks)
     * [YouTube Tutorials](#youtube-tutorials)
@@ -43,51 +42,6 @@
 
 - The Forensics Wiki is an open source website providing information related to digital forensics. The articles on the website cover a wide range of information from tools used during investigations to papers people and organizations that contribute to the field. [All Credits to The Foreniscs Wiki Team](https://forensics.wiki/)
 
-### Books & Tutorials
-
- - [OSSTMM (Open Source Security Testing Methodology Manual) PDF](https://github.com/mikeroyal/Open-Source-Security-Guide/files/8834704/osstmm.en.2.1.pdf)
-
- - [NIST Technical Guide to Information Security Testing and Assessment (PDF)](https://github.com/mikeroyal/Open-Source-Security-Guide/files/8834705/nistspecialpublication800-115.pdf)
-
- - [Python Digital Forensics Cookbook](https://github.com/PythonForensics/PythonForensicsCookbook)
-
- - [Applied Incident Response](https://www.amazon.com/Applied-Incident-Response-Steve-Anson/dp/1119560268/) - Steve Anson's book on Incident Response.
- 
- - [Art of Memory Forensics](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098/) - Detecting Malware and Threats in Windows, Linux, and Mac Memory.
-
- - [Crafting the InfoSec Playbook: Security Monitoring and Incident Response Master Plan](https://www.amazon.com/Crafting-InfoSec-Playbook-Security-Monitoring/dp/1491949406) - by Jeff Bollinger, Brandon Enright and Matthew Valites.
-
- - [Digital Forensics and Incident Response: Incident response techniques and procedures to respond to modern cyber threats](https://www.amazon.com/Digital-Forensics-Incident-Response-techniques/dp/183864900X) - by Gerard Johansen.
- 
- - [Introduction to DFIR](https://medium.com/@sroberts/introduction-to-dfir-d35d5de4c180/) - By Scott J. Roberts.
- 
- - [Incident Response & Computer Forensics, Third Edition](https://www.amazon.com/Incident-Response-Computer-Forensics-Third/dp/0071798684/) - The definitive guide to incident response.
-
- - [Incident Response Techniques for Ransomware Attacks](https://www.amazon.com/Incident-Response-Techniques-Ransomware-Attacks/dp/180324044X) - A great guide to build an incident response strategy for ransomware attacks. By Oleg Skulkin.
-
- - [Incident Response with Threat Intelligence](https://www.amazon.com/Incident-response-Threat-Intelligence-intelligence-based/dp/1801072957) - Great reference to build an incident response plan based also on Threat Intelligence. By Roberto Martinez.
-
- - [Intelligence-Driven Incident Response](https://www.amazon.com/Intelligence-Driven-Incident-Response-Outwitting-Adversary-ebook-dp-B074ZRN5T7/dp/B074ZRN5T7) - By Scott J. Roberts, Rebekah Brown.
- 
- - [Operator Handbook: Red Team + OSINT + Blue Team Reference](https://www.amazon.com/Operator-Handbook-Team-OSINT-Reference/dp/B085RR67H5/) - Great reference for incident responders.
- 
- - [Practical Memory Forensics](https://www.amazon.com/Practical-Memory-Forensics-Jumpstart-effective/dp/1801070334) - The definitive guide to practice memory forensics. By Svetlana Ostrovskaya and Oleg Skulkin.
- 
- - [The Practice of Network Security Monitoring: Understanding Incident Detection and Response](http://www.amazon.com/gp/product/1593275099) - Richard Bejtlich's book on IR.
- 
- - [GitGuardian API Security Best Practice](https://github.com/GitGuardian/APISecurityBestPractices)
-
- - [Open Source Security Foundation (OpenSSF) npm Best Practices Guide](https://github.com/ossf/package-manager-best-practices/blob/main/published/npm.md)
-
- - [Open Source Security Foundation (OpenSSF) Best Practices for Open Source Developers](https://github.com/ossf/wg-best-practices-os-developers)
-
- - [Open Source Security Foundation (OpenSSF) Identifying Security Threats in Open Source Projects](https://github.com/ossf/wg-identifying-security-threats)
- 
- - [OWASP Foundation Top 10](https://owasp.org/www-project-top-ten/)
- 
- - [Common Weakness Enumeration (CWE) Top 25](https://cwe.mitre.org/top25/archive/2022/2022_cwe_top25.html)
-
- - [Securing The Software Supply Chain: Recommended Practices Guide for Developers | CISA, NSA, and ODNI (PDF)](https://media.defense.gov/2022/Sep/01/2003068942/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN_DEVELOPERS.PDF)
 
 ### Digital Forensics Certifications & Courses
 
@@ -145,6 +99,8 @@
 [![From Beginner to Pro: A Roadmap for Cybersecurity Careers](https://ytcards.demolab.com/?id=wtF7O89RTTU&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "From Beginner to Pro: A Roadmap for Cybersecurity Careers")](https://www.youtube.com/watch?v=wtF7O89RTTU)
 [![Cyber Security Certificate Tier List – UPDATED (2023)](https://ytcards.demolab.com/?id=NU9LNS3-rmo&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Cyber Security Certificate Tier List – UPDATED (2023)")](https://www.youtube.com/watch?v=NU9LNS3-rmo)
 [![Best Certifications for Cyber Security 2023 | Top 6 Cybersecurity Certifications To Get in 2023](https://ytcards.demolab.com/?id=xOFxWE-IB3M&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Best Certifications for Cyber Security 2023 | Top 6 Cybersecurity Certifications To Get in 2023")](https://www.youtube.com/watch?v=xOFxWE-IB3M)
+[![Wireshark Materclass](https://www.youtube.com/watch?v=OU-A2EmVrKQ&list=PLW8bTPfXNGdC5Co0VnBK1yVzAwSSphzpJ)
+
 
 # Digital Forensics Tools, Libraries, and Frameworks
 
