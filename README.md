@@ -321,33 +321,6 @@
 
 [Secure boot](https://docs.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-secure-boot) is a security standard developed by members of the PC industry to help make sure that a device boots(Unified Extensible Firmware Interface (UEFI) BIOS) using only software(such as bootloaders, OS, UEFI drivers, and utilities) that is trusted by the Original Equipment Manufacturer (OEM).
 
-### Security Encryption
-  
- **How Encryption Keys work**
- 
- 
-  * **Symmetric** is a data encryption method whereby the same private key is used to encode and decode information.
-  
-  * **Asymmetric** is a data encryption method that allows users to encrypt information using shared keys. For example, if you need to send a message across the internet, but you don't want anyone but the intended recipient to see what you've written.
- 
- **Types of Encryption**
- 
-  * **Triple DES (Triple Data Encryption Algorithm)** is a symmetric-key block cipher, which applies the DES cipher algorithm three times to each data block(contains 64 bits of data).
-  
-  * **AES (Advanced Encryption Standard)** is an algorithm that encrypts and decrypts data in blocks of 128 bits. It can do this using 128-bit, 192-bit, or 256-bit keys.
-  
-  * **RSA (Rivest–Shamir–Adleman)** is a type of public-key cryptography used for secure data transmission of e-mail and other digital transactions over the Internet. 
-  
-   * **Twofish**  is a symmetric key block cipher with a block size of 128 bits and key sizes up to 256 bits. It is an advanced version of Blowfish encryption.
-  
-  * **Format Preserving Encryption (FPE)** is a valid encryption algorithm to be used for compliance with NIST standards. It is mostly used in on-premise encryption and tokenization solutions.
- 
- **Application Level Encryption**
- 
-  * **Hashes** is a function that converts an input of letters and numbers into an encrypted output of a fixed length. For example, algorithms such as [MD5 (Message Digest 5)](https://en.wikipedia.org/wiki/MD5) or [SHA (Secure Hash Algorithm)](https://en.wikipedia.org/wiki/Secure_hash_algorithms).
-  
-  * **Digital Certificates** is a file that verifies the identity of a device or user and enables encrypted connections. A digital signature is a hashing approach that uses a numeric string to provide authenticity and validate identity. Digital certificates are typically issued by a **certificate authority (CA)**, which is a trusted third-party entity that issues digital certificates for use by other parties.
-
 ## Security Tools
 
 [Netdata](https://github.com/netdata/netdata) is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
@@ -600,69 +573,8 @@
 
 [Tink](https://github.com/google/tink) is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and harder to misuse.
 
-### Security Threat Models
-
-
-
-**[Diamond Model of Intrusion Analysis](https://apps.dtic.mil/sti/citations/ADA586960)** is a model to describe cyber attacks. It contains 4 parts - adversary, infrastructure, capability, and target.
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/196002361-122704b9-250c-48cb-a1fc-b3b97fcb6447.png">
-  <br />
-  Diamond Model of Intrusion Analysis security model
-</p>
-
-**[Cyber Kill Chain framework](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)** is part of the Intelligence Driven Defense model for identification and prevention of cyber intrusions activity. The model identifies what the adversaries must complete in order to achieve their objective.
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/196002362-5233433c-24ea-44c5-9218-d883995f3cc0.png">
-  <br />
- Cyber Kill Chain security Model
-</p>
-
-**[MITRE ATT&CK](https://attack.mitre.org/)** is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/196002365-0311fd8d-d3d0-4b87-adb1-b36168101da4.png">
-  <br />
-  MITRE ATT&CK security model
-</p>
-
-**[ISO/IEC 27005 InfoSec Risk Management](https://www.iso.org/standard/75281.html)** is an international standard published by the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC) providing good practice guidance on managing risks to information.
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/196002367-6198a209-4495-44d6-a098-24d9198bb769.png">
-  <br />
-  ISO 27005 InfoSec Risk Management
-</p>
-
-## Threat Intelligence Platform
-
-
-
-A threat intelligence platform is a solution that collects and processes threat data from multiple sources. It provides security teams with detailed information about threats like known malware. The SOAR platform can use the information from the threat intelligence platform to guide the strategy and resolution needed against critical threats.
-
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/226541101-d5764c14-d4fd-4730-8662-bd731b9826c1.png">
-</p>
-
-
-### Threat Intelligence Tools
-
-[Anomali ThreatStream](https://www.anomali.com/products/threatstream) is a tool that automates the threat intelligence collection and management lifecycle to speed detection, streamline investigations and increase analyst productivity.
-    
-[IBM X-Force Exchange](https://www.ibm.com/products/xforce-exchange) is a threat intelligence sharing platform that you can use to research security threats, to aggregate intelligence, and to collaborate with peers. Logged in users have integrated access to all the functionality of the site: searching, commenting, Collections and sharing.
-
-[LookingGlass scoutTHREAT](https://lookingglasscyber.com/solutions/scoutthreat/) is a threat intelligence tol that offers automated ingestion and analysis of structured and unstructured threat intelligence, enabling your analysts to collaboratively develop and refine threat actor models by uncovering adversarial capabilities and motivations, tracking relevant reporting to highlight adversaries attacking sectors you care about, and mapping tactics, techniques, and procedures to personas and threat actors.
-    
-[Recorded Future Intelligence Cloud](https://www.recordedfuture.com/platform) is a threat intelligence platform that uniquely combines persistent data collection, large-scale graph analysis, and the analytical acumen of Recorded Future's global research team to provide the most complete coverage of intelligence across adversaries, their infrastructure, and the organizations they target, empowering business and security leaders to act with speed and confidence. 
-    
-[ThreatConnect](https://threatconnect.com/) is a threat intelligence platform that has a vision for security that encompasses the most critical elements - risk, threat, and response.
-
 
 ### Security Orchestration Automation and Response (SOAR)
-
-
 
 SOAR solutions work by prioritizing and standardizing incident response activities so that security teams can collaborate on investigating and managing incidents. Workflows that can be handled through automation go through standardized response processes defined in playbooks.
 
