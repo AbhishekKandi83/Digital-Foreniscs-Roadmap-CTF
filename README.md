@@ -99,7 +99,7 @@
 [![From Beginner to Pro: A Roadmap for Cybersecurity Careers](https://ytcards.demolab.com/?id=wtF7O89RTTU&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "From Beginner to Pro: A Roadmap for Cybersecurity Careers")](https://www.youtube.com/watch?v=wtF7O89RTTU)
 [![Cyber Security Certificate Tier List – UPDATED (2023)](https://ytcards.demolab.com/?id=NU9LNS3-rmo&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Cyber Security Certificate Tier List – UPDATED (2023)")](https://www.youtube.com/watch?v=NU9LNS3-rmo)
 [![Best Certifications for Cyber Security 2023 | Top 6 Cybersecurity Certifications To Get in 2023](https://ytcards.demolab.com/?id=xOFxWE-IB3M&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Best Certifications for Cyber Security 2023 | Top 6 Cybersecurity Certifications To Get in 2023")](https://www.youtube.com/watch?v=xOFxWE-IB3M)
-[![Wireshark Materclass](https://www.youtube.com/watch?v=OU-A2EmVrKQ&list=PLW8bTPfXNGdC5Co0VnBK1yVzAwSSphzpJ)
+
 
 
 # Digital Forensics Tools, Libraries, and Frameworks
@@ -152,7 +152,7 @@
 
  [WindowsSCOPE](https://www.bluerisc.com/windowsscope/) is a commercial memory forensics and reverse engineering tool used for analyzing volatile memory. It is basically used for reverse engineering of malware. It provides the ability to analyze the Windows kernel, drivers, DLLs and virtual and physical memory.
 
- [Wireshark](https://www.wireshark.org/) is the most widely used network traffic analysis tool in existence. It has the ability to capture live traffic or ingest a saved capture file.
+ [Wireshark](https://www.wireshark.org/) is the most widely used network traffic analysis tool in existence. It has the ability to capture live traffic or ingest a saved capture file. [Wireshark Materclass](https://www.youtube.com/watch?v=OU-A2EmVrKQ&list=PLW8bTPfXNGdC5Co0VnBK1yVzAwSSphzpJ)
 
  [Network Miner](https://www.netresec.com/?page=NetworkMiner) is an open source Network Forensic Analysis Tool (NFAT) for Windows (also Linux, macOS, and FreeBSD). NetworkMiner can be used as a passive network sniffer/packet capturing tool in order to detect operating systems, sessions, hostnames, and open ports  without putting any traffic on the network.
 
